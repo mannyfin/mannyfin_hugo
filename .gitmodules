@@ -1,0 +1,6 @@
+[submodule "mannyfin.github.io"]
+	path = mannyfin.github.io
+	url = https://github.com/mannyfin/mannyfin.github.io.git
+[submodule "themes/prologue"]
+	path = themes/prologue
+	url = https://github.com/sethmacleod/prologue.git
